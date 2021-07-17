@@ -16,13 +16,13 @@ O último arquivo ainda não citado é o "logout.php", que é invocado quando a 
 
 
 - Editor de código: Visual Studio Code.
-- Servidor e Banco de dados: Xampp. A partir dele pude acessar o Apache como servidor e o phpMyAdmin (MySQL) como banco de dados. A pasta com todos os arquivos necessários do Xampp também está disponibilizada no repositório, caso queira usá-lo também. 
+- Servidor e Banco de dados: Xampp. A partir dele pude acessar o Apache como servidor e o phpMyAdmin (MySQL) como banco de dados. A pasta com todos os arquivos necessários do Xampp está disponibilizada no meu Google Drive, caso queira usá-lo também. 
 
 ----
 
 ## Como funciona o Xampp? 
 
-1. Se optar por utilizar a pasta do repositório, é preciso que execute o arquivo "xampp-control.exe", após ele aberto irá selecionar a opção "Start" para o "Apache" e o "MySQL". 
+1. Se optar por utilizar a pasta do meu Drive, é preciso que execute o arquivo "xampp-control.exe", após ele aberto irá selecionar a opção "Start" para o "Apache" e o "MySQL". 
 
 2. Selecione "Admin" para o MySQL, importe o arquivo "biblioteca.sql" e o execute para criar o banco de dados. 
 
@@ -30,4 +30,6 @@ O último arquivo ainda não citado é o "logout.php", que é invocado quando a 
 
 4. Selecione "Admin" para o Apache, e entre na pasta "Proj--Biblioteca". 
 
-- Caso não use a pasta do repositório, tenha algum problema ao utilizar o Xampp ou queira instalar o Xampp mais atual, sugiro que pesquise por videos de tutoriais ou por artigos.
+- Caso não use a pasta do Drive, tenha algum problema ao utilizar o Xampp ou queira instalar o Xampp mais atual, sugiro que pesquise por videos de tutoriais ou por artigos.
+
+- Pasta no Google Drive: https://drive.google.com/drive/folders/1cN-B-3w872XphAkXH66L6rePZpDj8665?usp=sharing
